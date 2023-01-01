@@ -1,0 +1,9 @@
+MySql:
+  ip: localhost
+  port: 3306
+  user: root
+  password: iloveyusanr520@
+  database: HiaXnSocialBungee
+Redis:
+  ip: 127.0.0.1
+  port: 6379
